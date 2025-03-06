@@ -8,6 +8,7 @@ format:
     number-sections: true
     toc-location: left
     fig_caption: true
+    embed-resources: true
 editor: source
 ---
 

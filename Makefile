@@ -1,8 +1,8 @@
 # author: Jordan Bourak & Tiffany Timbers
 # date: 2021-11-22
 
-# following files need to be generated
-all: results/horse_pop_plot_largest_sd.png \
+# Create index.html with given list of dependencies
+index.html: results/horse_pop_plot_largest_sd.png \
 	results/horse_pops_plot.png \
 	results/horses_spread.csv \
 	reports/qmd_example.html \
