@@ -47,7 +47,7 @@ $$s = \sqrt{\frac{\sum_{i=1}^N (x_i - \overline{x})^2}{N-1} }$$
 
 Additionally, note that in @tbl-horse we consider the sample standard deviation of the number of horses during the same time span as @fig-horse_population_prov.
 
-![Horse populations for the province with the largest standard deviation](../results/horse_pop_plot_largest_sd.png){#fig-horse_population_sd width=60%}
+![Horse populations for the province with the largest standard deviation](../results/horse_pop_plot_largest_sd.png){#fig-horse_population_sd width="60%"}
 
 In @fig-horse_population_sd we zoom in and look at the province of `r horses_sd_table$Province[1]`, which had the largest spread of values in terms of standard deviation.
 
